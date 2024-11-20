@@ -1,0 +1,12 @@
+/Users/admin/MultiversX/SmartContracts/crowdfunding/target/debug/deps/libsignature-bc394db78ed76ea9.rmeta: /Users/admin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/signature-2.2.0/src/lib.rs /Users/admin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/signature-2.2.0/src/hazmat.rs /Users/admin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/signature-2.2.0/src/encoding.rs /Users/admin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/signature-2.2.0/src/error.rs /Users/admin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/signature-2.2.0/src/keypair.rs /Users/admin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/signature-2.2.0/src/signer.rs /Users/admin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/signature-2.2.0/src/verifier.rs /Users/admin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/signature-2.2.0/src/../README.md
+
+/Users/admin/MultiversX/SmartContracts/crowdfunding/target/debug/deps/signature-bc394db78ed76ea9.d: /Users/admin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/signature-2.2.0/src/lib.rs /Users/admin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/signature-2.2.0/src/hazmat.rs /Users/admin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/signature-2.2.0/src/encoding.rs /Users/admin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/signature-2.2.0/src/error.rs /Users/admin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/signature-2.2.0/src/keypair.rs /Users/admin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/signature-2.2.0/src/signer.rs /Users/admin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/signature-2.2.0/src/verifier.rs /Users/admin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/signature-2.2.0/src/../README.md
+
+/Users/admin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/signature-2.2.0/src/lib.rs:
+/Users/admin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/signature-2.2.0/src/hazmat.rs:
+/Users/admin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/signature-2.2.0/src/encoding.rs:
+/Users/admin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/signature-2.2.0/src/error.rs:
+/Users/admin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/signature-2.2.0/src/keypair.rs:
+/Users/admin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/signature-2.2.0/src/signer.rs:
+/Users/admin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/signature-2.2.0/src/verifier.rs:
+/Users/admin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/signature-2.2.0/src/../README.md:
